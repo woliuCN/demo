@@ -1,0 +1,25 @@
+.container{
+    height: 100%;
+    padding: 20px 10px;
+}
+.table-container{
+    margin-top: 10px;
+
+}
+.tips{
+    height: 30px;
+    line-height: 30px;
+    background-color: #e0f6ff;
+    border: 1px solid #b4e0ff;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    font-size: 12px;
+    padding-left: 20px;
+}
+.tips>span{
+    color: #1890ff;
+    margin: 0 4px;
+}
+.tips span:nth-child(3){
+    margin: 0 20px;
+}
