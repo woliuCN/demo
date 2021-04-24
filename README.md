@@ -9,4 +9,5 @@
 1. 第一次,进入项目目录,输入`npm  install`下载相关依赖  
 2. 运行json-server 输入 `npm run server`
 3. 开另外的终端运行项目 输入 `npm start `
+4. 测试1
 
